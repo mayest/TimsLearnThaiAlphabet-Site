@@ -39,3 +39,5 @@ code { font-size:.95em; }
 footer { border-top:1px solid var(--line); padding-block:1.5rem 2.5rem; }
 @media(max-width:40rem) { main { padding-top:2rem; } .activities { grid-template-columns:1fr; gap:.2rem; } .note,.contact { padding:1rem; } nav { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); width:100%; gap:.4rem 1rem; } nav a { justify-content:center; text-align:center; } }
 @media(forced-colors:active) { a:focus-visible { outline:3px solid Highlight; } .note,.contact { border:1px solid CanvasText; } }
+
+.thai-pattern { display:inline-block; height:1.2em; vertical-align:-.2em; fill:currentColor; max-width:100%; }

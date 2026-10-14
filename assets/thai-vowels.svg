@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg"><title>Thai vowel pattern diagrams</title><metadata>Letterform outlines: Noto Looped Thai Regular. Source: https://github.com/notofonts/noto-fonts/tree/main/hinted/ttf/NotoLoopedThai
+Copyright 2018 The Noto Project Authors (github.com/googlei18n/noto-fonts)
+
+This Font Software is licensed under the SIL Open Font License,
+Version 1.1.
+
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font
+creation efforts of academic and linguistic communities, and to
+provide a free and open framework in which fonts may be shared and
+improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply to
+any document created using the fonts or their derivatives.
+
+DEFINITIONS
+&quot;Font Software&quot; refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+&quot;Reserved Font Name&quot; refers to any names specified as such after the
+copyright statement(s).
+
+&quot;Original Version&quot; refers to the collection of Font Software
+components as distributed by the Copyright Holder(s).
+
+&quot;Modified Version&quot; refers to any derivative made by adding to,
+deleting, or substituting -- in part or in whole -- any of the
+components of the Original Version, by changing formats or by porting
+the Font Software to a new environment.
+
+&quot;Author&quot; refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION &amp; CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed,
+modify, redistribute, and sell modified and unmodified copies of the
+Font Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components, in
+Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the
+corresponding Copyright Holder. This restriction only applies to the
+primary font name as presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created using
+the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+</metadata><defs><path id="placeholder" d="M326 492Q317 492 310.500 498.500Q304 505 304 514Q304 523 310.500 529.500Q317 536 326 536Q334 536 341 529.500Q348 523 348 514Q348 505 341 498.500Q334 492 326 492ZM189 457Q179 457 172.500 463.500Q166 470 166 479Q166 488 172.500 494.500Q179 501 189 501Q198 501 204.500 494.500Q211 488 211 479Q211 470 204.500 463.500Q198 457 189 457ZM462 455Q453 455 446.500 461.500Q440 468 440 476Q440 486 446.500 492.500Q453 499 462 499Q472 499 478 492.500Q484 486 484 476Q484 468 478 461.500Q472 455 462 455ZM92 363Q83 363 76.500 369.500Q70 376 70 385Q70 394 76.500 401Q83 408 92 408Q101 408 107.500 401Q114 394 114 385Q114 376 107.500 369.500Q101 363 92 363ZM561 362Q552 362 545.500 368Q539 374 539 384Q539 393 545.500 399.500Q552 406 561 406Q570 406 576.500 399.500Q583 393 583 384Q583 374 576.500 368Q570 362 561 362ZM51 246Q44 246 37 252Q30 258 30 268Q30 277 37 283.500Q44 290 51 290Q61 290 67.500 283.500Q74 277 74 268Q74 258 67.500 252Q61 246 51 246ZM600 244Q590 244 584 250.500Q578 257 578 267Q578 276 584 282.500Q590 289 600 289Q609 289 615.500 282.500Q622 276 622 267Q622 257 615.500 250.500Q609 244 600 244ZM90 127Q82 127 75.500 133.500Q69 140 69 149Q69 159 75.500 165.500Q82 172 90 172Q100 172 106.500 165.500Q113 159 113 149Q113 140 106.500 133.500Q100 127 90 127ZM560 126Q551 126 544.500 132.500Q538 139 538 148Q538 158 544.500 164.500Q551 171 560 171Q569 171 575.500 164.500Q582 158 582 148Q582 139 575.500 132.500Q569 126 560 126ZM189 35Q179 35 172.500 41Q166 47 166 56Q166 66 172.500 72Q179 78 189 78Q198 78 204.500 72Q211 66 211 56Q211 47 204.500 41Q198 35 189 35ZM462 31Q453 31 446.500 38Q440 45 440 54Q440 64 446.500 69.500Q453 75 462 75Q484 75 484 54Q484 45 478 38Q472 31 462 31ZM326 -2Q317 -2 310.500 5Q304 12 304 19Q304 29 310.500 35.500Q317 42 326 42Q334 42 341 35.500Q348 29 348 19Q348 12 341 5Q334 -2 326 -2Z"/><path id="yo-yak" d="M86 0L86 141Q86 195 106.500 227Q127 259 169 267L169 268Q130 281 103 324.500Q76 368 76 423Q76 489 105 524.500Q134 560 190 560Q237 560 264.500 533.500Q292 507 292 460Q292 414 264 388Q236 362 189 362Q172 362 158 367Q161 340 185.500 323Q210 306 253 306L308 306L308 239L259 239Q210 239 190.500 213Q171 187 171 148L171 72L347 72Q397 72 413.500 93Q430 114 430 159L430 553L515 553L515 154Q515 72 476 36Q437 0 347 0ZM189 410Q213 410 225.500 424.500Q238 439 238 461Q238 483 225.500 497.500Q213 512 189 512Q165 512 152.500 497.500Q140 483 140 461Q140 439 152.500 424.500Q165 410 189 410Z"/><path id="wo-waen" d="M412 375L412 103Q412 51 384 22Q356 -7 307 -7Q259 -7 231 20Q203 47 203 93Q203 139 232 165Q261 191 307 191Q317 191 326 190L326 366Q326 427 301.500 459Q277 491 209 491Q168 491 129.500 480.500Q91 470 61 456L33 526Q64 541 109 552Q154 563 208 563Q315 563 363.500 516.500Q412 470 412 375ZM307 143Q257 143 257 92Q257 41 307 41Q357 41 357 92Q357 143 307 143Z"/><path id="o-ang" d="M504 372L504 154Q504 72 465 36Q426 0 336 0L76 0L76 271Q76 324 104 352.500Q132 381 181 381Q229 381 257 354.500Q285 328 285 281Q285 235 256.500 209Q228 183 181 183Q171 183 162 184L162 71L335 71Q385 71 401.500 92Q418 113 418 158L418 363Q418 424 385 457.500Q352 491 273 491Q227 491 182.500 478Q138 465 100 445L76 514Q120 537 173.500 550Q227 563 280 563Q504 563 504 372ZM181 231Q231 231 231 282Q231 333 181 333Q131 333 131 282Q131 231 181 231Z"/><path id="sara-a" d="M210 337Q134 337 87 368.500Q40 400 40 454Q40 492 65.500 517.500Q91 543 136 543Q177 543 203.500 520Q230 497 230 459Q230 445 225 429.500Q220 414 209 401Q215 400 222 400Q270 400 307 427.500Q344 455 367 505L434 469Q400 403 345.500 370Q291 337 210 337ZM136 417Q156 417 168 428Q180 439 180 459Q180 479 168 490.500Q156 502 136 502Q93 502 93 459Q93 417 136 417ZM210 36Q134 36 87 68Q40 100 40 153Q40 191 65.500 216.500Q91 242 136 242Q177 242 203.500 219Q230 196 230 158Q230 144 225 128.500Q220 113 209 100Q215 99 222 99Q270 99 307 126.500Q344 154 367 204L434 168Q400 102 345.500 69Q291 36 210 36ZM136 116Q156 116 168 127Q180 138 180 158Q180 178 168 189.500Q156 201 136 201Q93 201 93 158Q93 116 136 116Z"/><path id="mai-han-akat" d="M231 635Q154 635 102 664Q50 693 50 756Q50 795 75 822.500Q100 850 146 850Q187 850 215 825Q243 800 243 759Q243 725 224 699Q231 698 240 698Q289 698 332.500 725.500Q376 753 405 803L472 767Q441 707 379 671Q317 635 231 635ZM146 714Q166 714 176.500 726.500Q187 739 187 759Q187 779 176.500 792Q166 805 146 805Q127 805 116.500 792Q106 779 106 759Q106 739 116.500 726.500Q127 714 146 714Z"/><path id="sara-ii" d="M53 640L50 675Q50 751 94.500 793.500Q139 836 222 836Q284 836 332.500 813.500Q381 791 416 754L416 836L493 836L493 640ZM132 697L394 697Q367 726 323.500 750Q280 774 229 774Q180 774 156 751.500Q132 729 132 697Z"/><path id="sara-uee" d="M53 640L50 675Q50 751 93.500 793.500Q137 836 213 836Q256 836 293 820Q330 804 359 778L359 835L432 835L432 697L468 697L468 835L541 835L541 640ZM132 697L360 697Q335 727 299 750.500Q263 774 216 774Q173 774 152.500 751.500Q132 729 132 697Z"/><path id="sara-e" d="M175 553L175 190Q184 191 194 191Q241 191 269.500 165Q298 139 298 93Q298 47 270 20Q242 -7 194 -7Q145 -7 117 22Q89 51 89 103L89 553ZM194 143Q144 143 144 92Q144 41 194 41Q244 41 244 92Q244 143 194 143Z"/></defs><symbol id="ia" viewBox="0 0 1596 1200"><g transform="translate(0 1000) scale(1 -1)"><use href="#sara-e" transform="translate(0 0)"/><use href="#placeholder" transform="translate(343 0)"/><use href="#sara-ii" transform="translate(397.5 0)"/><use href="#yo-yak" transform="translate(995 0)"/></g></symbol><symbol id="ia-short" viewBox="0 0 2068 1200"><g transform="translate(0 1000) scale(1 -1)"><use href="#sara-e" transform="translate(0 0)"/><use href="#placeholder" transform="translate(343 0)"/><use href="#sara-ii" transform="translate(397.5 0)"/><use href="#yo-yak" transform="translate(995 0)"/><use href="#sara-a" transform="translate(1596 0)"/></g></symbol><symbol id="uea-short" viewBox="0 0 2051 1200"><g transform="translate(0 1000) scale(1 -1)"><use href="#sara-e" transform="translate(0 0)"/><use href="#placeholder" transform="translate(343 0)"/><use href="#sara-uee" transform="translate(373.5 0)"/><use href="#o-ang" transform="translate(995 0)"/><use href="#sara-a" transform="translate(1579 0)"/></g></symbol><symbol id="ua-short" viewBox="0 0 1621 1200"><g transform="translate(0 1000) scale(1 -1)"><use href="#placeholder" transform="translate(0 0)"/><use href="#mai-han-akat" transform="translate(65 0)"/><use href="#wo-waen" transform="translate(652 0)"/><use href="#sara-a" transform="translate(1149 0)"/></g></symbol></svg>
