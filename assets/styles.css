@@ -41,3 +41,13 @@ footer { border-top:1px solid var(--line); padding-block:1.5rem 2.5rem; }
 @media(forced-colors:active) { a:focus-visible { outline:3px solid Highlight; } .note,.contact { border:1px solid CanvasText; } }
 
 .thai-pattern { display:inline-block; height:1.2em; vertical-align:-.2em; fill:currentColor; max-width:100%; }
+
+.brand { display:inline-flex; align-items:center; gap:.5rem; max-width:100%; }
+.brand span { min-width:0; }
+.brand-icon { display:block; width:28px; height:28px; flex-shrink:0; }
+.hero-intro { display:grid; grid-template-columns:minmax(0,1fr) 160px; align-items:center; gap:1.5rem 2rem; margin-bottom:1.4rem; }
+.hero-icon { grid-column:2; grid-row:1; display:block; width:160px; height:auto; }
+.hero-heading { grid-column:1; grid-row:1; min-width:0; }
+.hero-heading h1 { margin-bottom:0; }
+.free-badge { display:inline-block; margin:0 0 1rem; padding:.25rem .8rem; border:1px solid var(--link); border-radius:999px; background:var(--panel); color:var(--link); font-size:1rem; font-weight:750; line-height:1.5; }
+@media(max-width:40rem) { .hero-intro { grid-template-columns:minmax(0,1fr); gap:1rem; } .hero-icon { grid-column:1; grid-row:1; width:116px; } .hero-heading { grid-column:1; grid-row:2; } }
