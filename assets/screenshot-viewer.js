@@ -18,7 +18,7 @@
     link.addEventListener('click', event => {
       if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
       opener = link;
-      title.textContent = link.dataset.screenshot + ' — Mac version';
+      title.textContent = link.dataset.screenshot + ' — ' + (link.dataset.platform || 'Mac') + ' version';
       image.alt = link.querySelector('img').alt;
       image.width = Number(link.dataset.width);
       image.height = Number(link.dataset.height);

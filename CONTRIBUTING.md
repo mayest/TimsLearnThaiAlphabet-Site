@@ -2,7 +2,7 @@
 
 These rules apply to every update of Tim’s Learn the Thai Alphabet’s public website.
 
-- Write all four public pages for visitors. Do not put internal development commentary, TODO/FIXME lists, agent instructions, temporary placeholders, private testing reports or unresolved implementation/legal task lists in visitor pages.
+- Write all public pages for visitors. Do not put internal development commentary, TODO/FIXME lists, agent instructions, temporary placeholders, private testing reports or unresolved implementation/legal task lists in visitor pages.
 - Do not explain internal implementation details, including email obfuscation, build processes, development decisions or testing procedures, on public pages unless the information is genuinely necessary for users. Preserve required privacy disclosures, license notices and useful support information.
 - Preserve accurate platform availability, privacy disclosures, support instructions, third-party attribution, copyright notices, source links, modification disclosures and applicable license notices. Removing internal commentary does not settle licensing questions; keep private analyses outside this public repository.
 - Use conventional Thai vowel notation with exactly one dotted circle at the consonant position. Never substitute a real consonant merely to work around a browser/font rendering problem. Do not change application data to repair website rendering.
@@ -32,3 +32,18 @@ Letterform source: [Noto Looped Thai Regular](https://github.com/notofonts/noto-
 - Keep the visible Mac-version note. Screenshots must not imply that an iPad release or App Store listing exists.
 - The thumbnail anchors link directly to the larger images, so they remain useful without JavaScript. `assets/screenshot-viewer.js` progressively enhances them with a native modal dialog. Keep the Close button, Escape and outside-image dismissal, keyboard activation, native background inertness, visible focus and explicit focus restoration to the originating thumbnail. The Close button is the viewer’s only keyboard control; Tab and Shift-Tab keep focus there. Revisit that focus loop if other interactive controls are added. Preserve ordinary modified-click behavior.
 - Keep the viewer within both viewport dimensions, including narrow and short landscape windows. Do not add animations or dependencies. Before publishing changes, test opening each image, all dismissal methods, focus behavior and image fit in Chrome, Safari and Firefox where available. Never claim assistive-technology or device testing that was not performed.
+
+## Platform pages and downloads
+
+- Keep index.html as the shared platform chooser, apple.html as the Apple home page,
+  and windows.html as the Windows home page. Keep shared navigation consistent.
+- Windows screenshots in assets/screenshots/windows come from the Windows app's
+  illustrated Help, captured with disposable data. Preserve their original pixels
+  and identify Windows with data-platform="Windows" in the enlargement links.
+  Existing Mac screenshot links retain their default Mac label.
+- Keep application binaries in GitHub Releases, not website source commits. Never
+  copy a private source repository, profile, cache, backup, or test log into this site.
+- Label preview downloads accurately, use version-specific asset URLs, and keep the
+  getting-started guide and checksums consistent with the actual release assets.
+- Preserve the distinction between application-folder removal and separately stored
+  Windows learning data. Do not imply that backups restore across platforms.

@@ -69,3 +69,10 @@ footer { border-top:1px solid var(--line); padding-block:1.5rem 2.5rem; }
 #screenshot-close:focus-visible { outline:3px solid var(--focus); outline-offset:4px; }
 #screenshot-image { display:block; width:auto; height:auto; max-width:calc(100vw - 4rem - 2px); max-height:calc(100vh - 9rem); max-height:calc(100dvh - 9rem); margin:auto; object-fit:contain; }
 .screenshot-open { overflow:hidden; }
+
+/* Platform selection and Windows downloads reuse the shared site palette. */
+.platform-choices .note { margin-top:0; }
+.platform-choices h3 { margin-top:0; }
+.action-link { display:inline-flex; align-items:center; min-height:44px; margin:.3rem .5rem .3rem 0; padding:.45rem .9rem; border:1px solid var(--link); border-radius:.35rem; background:var(--panel); font-weight:700; }
+.download-options { display:flex; flex-wrap:wrap; gap:1rem 2rem; }
+.download-options p { margin:.5rem 0; }
