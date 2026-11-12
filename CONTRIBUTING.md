@@ -41,9 +41,9 @@ Letterform source: [Noto Looped Thai Regular](https://github.com/notofonts/noto-
   illustrated Help, captured with disposable data. Preserve their original pixels
   and identify Windows with data-platform="Windows" in the enlargement links.
   Existing Mac screenshot links retain their default Mac label.
-- Keep application binaries in GitHub Releases, not website source commits. Never
-  copy a private source repository, profile, cache, backup, or test log into this site.
-- Label preview downloads accurately, use version-specific asset URLs, and keep the
-  getting-started guide and checksums consistent with the actual release assets.
+- Link visitors to the Microsoft Store for Windows installs. Keep the installation
+  instructions consistent with the Store release.
+- Never copy application binaries, a private source repository, profile, cache,
+  backup, or test log into this site.
 - Preserve the distinction between application-folder removal and separately stored
   Windows learning data. Do not imply that backups restore across platforms.
