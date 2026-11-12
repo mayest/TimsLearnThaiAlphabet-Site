@@ -4,29 +4,15 @@
 <section aria-labelledby="app-demo">
   <h2 id="app-demo">Watch the app in action</h2>
   <div style="max-width:52rem">
-    <button type="button" id="load-app-demo" class="action-link" style="display:none;font-family:inherit;font-size:inherit;cursor:pointer">Load the Mac demo</button>
-    <template id="app-demo-player">
-      <iframe src="https://www.youtube-nocookie.com/embed/OEJnlYpl8uw"
-        title="Tim’s Learn the Thai Alphabet — Mac app demo"
-        width="832" height="468" style="display:block;width:100%;height:auto;aspect-ratio:16/9;border:0;border-radius:.35rem"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
-    </template>
+    <iframe src="https://www.youtube-nocookie.com/embed/OEJnlYpl8uw"
+      loading="lazy"
+      title="Tim’s Learn the Thai Alphabet — Mac app demo"
+      width="832" height="468" style="display:block;width:100%;height:auto;aspect-ratio:16/9;border:0;border-radius:.35rem"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
     <p class="small"><a href="https://youtu.be/OEJnlYpl8uw">Watch on YouTube</a></p>
   </div>
 </section>
-<script>
-  {
-    const button = document.getElementById('load-app-demo');
-    const template = document.getElementById('app-demo-player');
-    button.style.removeProperty('display');
-    button.addEventListener('click', () => {
-      const player = template.content.firstElementChild.cloneNode(true);
-      button.replaceWith(player);
-      player.focus();
-    });
-  }
-</script>
 <section aria-labelledby="platforms"><h2 id="platforms">Choose your platform</h2><div class="activities platform-choices"><article class="note"><h3>Apple</h3><p>Learn about the Mac application and plans for Apple devices. See the activities, pronunciation guides, and Mac screenshots.</p><p><a class="action-link" href="apple.html">Explore the Apple version</a></p></article><article class="note"><h3>Windows</h3><p>A compact Windows 11 desktop application, with native x64 and ARM64 preview downloads.</p><p><a class="action-link" href="windows.html">Explore the Windows version</a></p></article></div></section>
 <section><h2>Learn at your own pace</h2><p>Study Cards, Whack-a-Mole, Quizzes, and Reference Charts offer different ways to practice. Dashboard and History &amp; Statistics help you review your activity. Learning records stay on your device.</p><p>The app is a companion for learning the writing system, rather than a complete Thai language course.</p></section>
 <section><h2>Free to use, with no account</h2><p>No advertising, subscriptions, or in-app purchases. Study activities, recordings, charts, and built-in Help work offline.</p><p><a href="privacy.html">Read the Privacy Policy</a> · <a href="support.html">Find help and contact support</a></p></section>
